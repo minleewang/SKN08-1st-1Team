@@ -43,7 +43,7 @@
       <td><a href="https://github.com/kimhyeonu4586"><div align=center>@hyeonu-kim</div></a></td>
       <td><a href="https://github.com/minleewang"><div align=center>@Hwan-Min</div></a></td>
       <td><a href="https://github.com/Goeun-Ju"><div align=center>@Goeun-Ju</div></a></td>
-      <td><a href="https://github.com/ih9511"><div align=center>@ajeseung</div></a></td>
+      <td><a href="https://github.com/ajeseung"><div align=center>@ajeseung</div></a></td>
     </tr>
   </tbody>
 </table>
