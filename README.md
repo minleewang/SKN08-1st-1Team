@@ -1,4 +1,4 @@
-SKN08-1st-1Team
+# SK08-1ST-1Team
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003300,100:00FF00&height=240&text=SKN08-1st-1Team&animation=&fontColor=00FF00&fontSize=90" width="1000" />
 
