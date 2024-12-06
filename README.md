@@ -37,7 +37,7 @@
         </div>
       </td>
       <td align="center">
-        <img src="![KakaoTalk_20230614_123153040](https://github.com/user-attachments/assets/bc0a7f2c-bdf5-456e-addc-3b6ec5c4f779)
+        <img src="[KakaoTalk_20230614_123153040](https://github.com/user-attachments/assets/bc0a7f2c-bdf5-456e-addc-3b6ec5c4f779)
 ;" alt=""/>
       </td>
     </tr>
