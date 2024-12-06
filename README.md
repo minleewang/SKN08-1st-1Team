@@ -31,7 +31,9 @@
         </div>
       </td>
       <td align="center">
-        <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/133327235?v=4" width="200" height="200" class="avatar avatar-user width-full border color-bg-default">
+        <div>
+          <img src="https://avatars.githubusercontent.com/u/133327235?v=4" width="200" height="200">
+        </div>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/77eff59b-1c54-4d91-a49c-5f81cf28fb35"width="200px;" alt=""/>
