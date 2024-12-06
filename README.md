@@ -11,15 +11,14 @@
 
 
 # 1. Introduction Team (팀 소개)
-### ✅ 팀명 : TCP(Text Chat Programmers)
+### ✅ 팀명 : COACH
 <table align=center>
   <tbody>
     <tr>
-      <td align=center><b>한재혁</b></td>
-      <td align=center><b>민경원</b></td>
-      <td align=center><b>정아람</b></td>
-      <td align=center><b>최인헌</b></td>
-      <td align=center><b>이용휘</b></td>
+      <td align=center><b>왕환민</b></td>
+      <td align=center><b>김현우</b></td>
+      <td align=center><b>주고은</b></td>
+      <td align=center><b>손승일</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -33,21 +32,17 @@
         </div>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/c01c579b-7f4f-436b-984a-74a26d2cef44"width="200px;" alt=""/>
+        <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/133327235?v=4" width="200" height="200" class="avatar avatar-user width-full border color-bg-default">
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/77eff59b-1c54-4d91-a49c-5f81cf28fb35"width="200px;" alt=""/>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/49822355-b1ef-485b-a45b-dc2199d8397b"width="200px;" alt=""/>
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Jh-jaehyuk"><div align=center>@Jh-jaehyuk</div></a></td>
       <td><a href="https://github.com/MinMessi"><div align=center>@MinMessi</div></a></td>
-      <td><a href="https://github.com/Ah-ram"><div align=center>@Ah-ram</div></a></td>
+      <td><a href="https://github.com/Goeun-Ju"><div align=center>@Goeun-Ju</div></a></td>
       <td><a href="https://github.com/ih9511"><div align=center>@ih9511</div></a></td>
-      <td><a href="https://github.com/y0ng98"><div align=center>@y0ng98</div></a></td>
     </tr>
   </tbody>
 </table>
