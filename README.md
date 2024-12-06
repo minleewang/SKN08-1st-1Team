@@ -32,13 +32,10 @@
         </div>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/c01c579b-7f4f-436b-984a-74a26d2cef44"width="200px;" alt=""/>
+        <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/133327235?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/77eff59b-1c54-4d91-a49c-5f81cf28fb35"width="200px;" alt=""/>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/49822355-b1ef-485b-a45b-dc2199d8397b"width="200px;" alt=""/>
       </td>
     </tr>
     <tr>
