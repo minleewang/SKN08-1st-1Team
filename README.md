@@ -11,15 +11,14 @@
 
 
 # 1. Introduction Team (팀 소개)
-### ✅ 팀명 : TCP(Text Chat Programmers)
+### ✅ 팀명 : COACH
 <table align=center>
   <tbody>
     <tr>
-      <td align=center><b>한재혁</b></td>
-      <td align=center><b>민경원</b></td>
-      <td align=center><b>정아람</b></td>
-      <td align=center><b>최인헌</b></td>
-      <td align=center><b>이용휘</b></td>
+      <td align=center><왕환민</b></td>
+      <td align=center><b>김현우</b></td>
+      <td align=center><b>주고은</b></td>
+      <td align=center><b>손승일</b></td>
     </tr>
     <tr>
       <td align="center">
