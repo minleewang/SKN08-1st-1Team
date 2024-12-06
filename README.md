@@ -1,4 +1,4 @@
-# SKN08-1st-1Team
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/886b6b4a-4291-4f24-a7ac-1a24f78c219a"><img width="464" alt="image" src="https://github.com/user-attachments/assets/b5b6b055-2408-45d6-a0e2-81b729221073"># SKN08-1st-1Team
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003300,100:00FF00&height=240&text=SKN08-1st-1Team&animation=&fontColor=00FF00&fontSize=90" width="1000" />
@@ -23,7 +23,7 @@
     <tr>
       <td align="center">
         <div>
-          <img src="https://github.com/user-attachments/assets/80f0a998-61ab-4de5-a652-51575e8a4468"width="200px; alt=""/>
+          <img width="200" alt="image" src="https://github.com/user-attachments/assets/d3a14a4d-9f6a-4c66-b61d-bac75bb6cc82">
         </div>
       </td>
       <td align="center">
@@ -39,7 +39,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/minleewang"><div align=center>@HWan-Min</div></a></td>
+      <td><a href="https://github.com/minleewang"><div align=center>@Hwan-Min</div></a></td>
       <td><a href="https://github.com/MinMessi"><div align=center>@MinMessi</div></a></td>
       <td><a href="https://github.com/Goeun-Ju"><div align=center>@Goeun-Ju</div></a></td>
       <td><a href="https://github.com/ih9511"><div align=center>@ih9511</div></a></td>
