@@ -1,10 +1,9 @@
-# SKN08-1st-1Team
-
+# SK08-1ST-1Team
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003300,100:00FF00&height=240&text=SKN08-1st-1Team&animation=&fontColor=00FF00&fontSize=90" width="1000" />
-  
+
   <img width="1000" alt="image" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/7ea63fc3-95f0-44d5-a0f0-cf431cae34f1"> 
-  
+
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-4th-1Team&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
@@ -23,7 +22,7 @@
     <tr>
       <td align="center">
         <div>
-          <img src="https://github.com/user-attachments/assets/80f0a998-61ab-4de5-a652-51575e8a4468"width="200px; alt=""/>
+          <img width="200" alt="image" src="https://github.com/user-attachments/assets/d3a14a4d-9f6a-4c66-b61d-bac75bb6cc82">
         </div>
       </td>
       <td align="center">
@@ -41,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Jh-jaehyuk"><div align=center>@Jh-jaehyuk</div></a></td>
+      <td><a href="https://github.com/minleewang"><div align=center>@Hwan-Min</div></a></td>
       <td><a href="https://github.com/MinMessi"><div align=center>@MinMessi</div></a></td>
       <td><a href="https://github.com/Goeun-Ju"><div align=center>@Goeun-Ju</div></a></td>
       <td><a href="https://github.com/ih9511"><div align=center>@ih9511</div></a></td>
