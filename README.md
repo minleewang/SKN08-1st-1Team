@@ -41,9 +41,8 @@
     <tr>
       <td><a href="https://github.com/Jh-jaehyuk"><div align=center>@Jh-jaehyuk</div></a></td>
       <td><a href="https://github.com/MinMessi"><div align=center>@MinMessi</div></a></td>
-      <td><a href="https://github.com/Ah-ram"><div align=center>@Ah-ram</div></a></td>
+      <td><a href="https://github.com/Goeun-Ju"><div align=center>@Goeun-Ju</div></a></td>
       <td><a href="https://github.com/ih9511"><div align=center>@ih9511</div></a></td>
-      <td><a href="https://github.com/y0ng98"><div align=center>@y0ng98</div></a></td>
     </tr>
   </tbody>
 </table>
