@@ -15,7 +15,7 @@
 <table align=center>
   <tbody>
     <tr>
-      <td align=center><왕환민</b></td>
+      <td align=center><b>왕환민</b></td>
       <td align=center><b>김현우</b></td>
       <td align=center><b>주고은</b></td>
       <td align=center><b>손승일</b></td>
