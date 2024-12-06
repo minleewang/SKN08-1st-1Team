@@ -36,14 +36,14 @@
         </div>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/77eff59b-1c54-4d91-a49c-5f81cf28fb35"width="200px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/145750431?v=4" width="200" height="200" class="avatar avatar-user width-full border color-bg-default">
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/minleewang"><div align=center>@Hwan-Min</div></a></td>
       <td><a href="https://github.com/MinMessi"><div align=center>@MinMessi</div></a></td>
       <td><a href="https://github.com/Goeun-Ju"><div align=center>@Goeun-Ju</div></a></td>
-      <td><a href="https://github.com/ih9511"><div align=center>@ih9511</div></a></td>
+      <td><a href="https://github.com/ih9511"><div align=center>@ajeseung</div></a></td>
     </tr>
   </tbody>
 </table>
