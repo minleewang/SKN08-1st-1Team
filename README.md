@@ -27,7 +27,7 @@
       </td>
       <td align="center">
         <div>
-          <img src="https://github.com/user-attachments/assets/30f29d8b-bcec-46c7-bce6-e6e4ec414e55"width="200px;" alt=""/>
+          <img src = "https://github.com/user-attachments/assets/ea1c1774-e583-46e8-9f43-576069ce87df" width="200px" height="200px"; alt=""/>
         </div>
       </td>
       <td align="center">
@@ -40,8 +40,8 @@
       </td>
     </tr>
     <tr>
+      <td><a href="https://github.com/kimhyeonu4586"><div align=center>@hyeonu-kim</div></a></td>
       <td><a href="https://github.com/minleewang"><div align=center>@Hwan-Min</div></a></td>
-      <td><a href="https://github.com/MinMessi"><div align=center>@MinMessi</div></a></td>
       <td><a href="https://github.com/Goeun-Ju"><div align=center>@Goeun-Ju</div></a></td>
       <td><a href="https://github.com/ih9511"><div align=center>@ajeseung</div></a></td>
     </tr>
