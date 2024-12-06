@@ -28,7 +28,7 @@
       </td>
       <td align="center">
         <div>
-         <img src = "https://github.com/user-attachments/assets/ea1c1774-e583-46e8-9f43-576069ce87df" width="200" height="200";alt=""/>
+          <img src = "https://github.com/user-attachments/assets/ea1c1774-e583-46e8-9f43-576069ce87df" width="200" height="200";alt=""/>
 
         </div>
       </td>
