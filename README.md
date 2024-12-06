@@ -38,7 +38,6 @@
       </td>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/u/145750431?v=4" width="200" height="200" class="avatar avatar-user width-full border color-bg-default">
-;" alt=""/>
       </td>
     </tr>
     <tr>
