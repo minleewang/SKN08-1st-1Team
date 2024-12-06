@@ -37,7 +37,7 @@
         </div>
       </td>
       <td align="center">
-        <img src="[KakaoTalk_20230614_123153040](https://github.com/user-attachments/assets/bc0a7f2c-bdf5-456e-addc-3b6ec5c4f779)
+        <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/145750431?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
 ;" alt=""/>
       </td>
     </tr>
