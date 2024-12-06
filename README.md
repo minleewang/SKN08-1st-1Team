@@ -33,7 +33,7 @@
       </td>
       <td align="center">
         <div>
-          <img src="https://avatars.githubusercontent.com/u/133327235?v=4" width="200" height="200" class="avatar avatar-user width-full border color-bg-default">
+          <img src="https://avatars.githubusercontent.com/u/133327235?v=4" width="200" height="200">
         </div>
       </td>
       <td align="center">
