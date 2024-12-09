@@ -141,6 +141,7 @@
 
 ### ✅ Data Server - MySQL에 차량 데이터 관리
 ![image](https://github.com/user-attachments/assets/98fec318-f43d-48a9-bf7d-ca08913fe7b9)
+![image](https://github.com/user-attachments/assets/248268af-7df8-4d0a-8e70-f5ac2fd8757f)
 
 <br><br><br>
 
