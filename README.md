@@ -147,33 +147,33 @@
 
 <br><br><br>
 
-
-
-# 6. ERD
+# 5. ERD
 ![image](https://github.com/user-attachments/assets/20843e6c-6303-48fe-8474-f14f442fb86c)
 
-# 7. 주요 프로시저
+# 6. Result (수행 결과)
 
-# 8. Result (수행 결과)
-### ✅ Frontend / Backend / FastAPI / DLLS 구성에서 모든 동작이 안정적으로 잘 실행되는지 확인
-### ✅ FastAPI - DLLS 구성에서 사용자 요청에 따른 LLM 동작이 잘 동작하는지 확인
-### ✅ 구성한 사용자 정의형 프로토콜이 잘 동작하는지 확인
-### ✅ 시연 결과 모습
+### ✅ PostMan 결과
+![image](https://github.com/user-attachments/assets/66107076-2e88-4354-bd3a-d184c9ffa312)
+![image](https://github.com/user-attachments/assets/2c373fae-ef69-4731-b7bb-f8cabc370438)
+![image](https://github.com/user-attachments/assets/0201f50d-1a61-4f27-a365-4b3a71dd4748)
+![image](https://github.com/user-attachments/assets/392a1097-8016-4cd9-8177-214cb843dec9)
 
-![image](https://github.com/user-attachments/assets/09b2e0f6-66a1-4288-a012-81d424b158e9) 
-![image](https://github.com/user-attachments/assets/4f6940df-a192-43a9-a4d0-8e425dc25290)
-![image](https://github.com/user-attachments/assets/026a0e22-7868-4cf3-9aad-6911ae90a7a6)
-![image](https://github.com/user-attachments/assets/acebf5fb-cbfc-4053-96f8-57879e1ee081)
-![image](https://github.com/user-attachments/assets/c4017585-5472-48d0-905b-ec3b713c7ce3) 
-![image](https://github.com/user-attachments/assets/ffe79024-74c2-42b2-bab7-d759514eb208)  
-![image](https://github.com/user-attachments/assets/fdb4576b-e308-4d77-a82b-237857b53184)
-![image](https://github.com/user-attachments/assets/e86076e9-ed73-49d9-96f0-4ad491f83783)
-![image](https://github.com/user-attachments/assets/cc0f7bb1-fe7f-4457-94ca-1195a3fba255)
+### ✅ SQL 동작 확인: MySQL 데이터베이스에서 데이터를 정확히 삽입하고 가져오는 기능이 정상적으로 작동함을 확인했습니다.
+![image](https://github.com/user-attachments/assets/8ce37889-8a67-4ae5-8585-c2210fd84f2c)
+![image](https://github.com/user-attachments/assets/4ad7156f-38e1-495d-bcfc-4982eb2a528a)
+![image](https://github.com/user-attachments/assets/600e565e-d874-4764-9197-cf38bdc2bcc3)
+![image](https://github.com/user-attachments/assets/d7c9c2a9-9cdf-4305-aee7-e91bbf184157)
+
+
+### ✅ 데이터 크롤링 성공: 주요 자동차 등록 정보를 제공하는 웹사이트로부터 데이터를 성공적으로 크롤링하여 MySQL 데이터베이스에 저장하였습니다.
+![image](https://github.com/user-attachments/assets/8aecd593-11ed-4325-ac2b-282e0f1cc977)
+![image](https://github.com/user-attachments/assets/5b63c972-38ac-4c28-9e61-ff486701bf9d)
+![image](https://github.com/user-attachments/assets/761dbbee-f4c5-4a28-a90a-4f59b31d1132)
 
 <br><br><br>
 
   
-# 9. 한 줄 회고
+# 7. 한 줄 회고
 🤓<b>한재혁</b>  
 _단순히 LLM을 이용하여 개발만 한 것이 아니라 AWS로 서비스 배포까지 진행해볼 수 있어서 좋은 경험이었습니다!👏_
 
