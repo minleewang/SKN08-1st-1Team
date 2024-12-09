@@ -148,6 +148,7 @@
 
 
 # 6. ERD
+![image](https://github.com/user-attachments/assets/20843e6c-6303-48fe-8474-f14f442fb86c)
 
 # 7. 주요 프로시저
 
