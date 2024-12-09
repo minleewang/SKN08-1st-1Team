@@ -147,6 +147,9 @@
 
 
 # 6. ERD
+![image](https://github.com/user-attachments/assets/13f60fa7-32f7-4682-b721-d9d30f9d3909)
+
+<br><br><br>
 
 # 7. 주요 프로시저
 
@@ -156,15 +159,10 @@
 ### ✅ 구성한 사용자 정의형 프로토콜이 잘 동작하는지 확인
 ### ✅ 시연 결과 모습
 
-![image](https://github.com/user-attachments/assets/09b2e0f6-66a1-4288-a012-81d424b158e9) 
-![image](https://github.com/user-attachments/assets/4f6940df-a192-43a9-a4d0-8e425dc25290)
-![image](https://github.com/user-attachments/assets/026a0e22-7868-4cf3-9aad-6911ae90a7a6)
-![image](https://github.com/user-attachments/assets/acebf5fb-cbfc-4053-96f8-57879e1ee081)
-![image](https://github.com/user-attachments/assets/c4017585-5472-48d0-905b-ec3b713c7ce3) 
-![image](https://github.com/user-attachments/assets/ffe79024-74c2-42b2-bab7-d759514eb208)  
-![image](https://github.com/user-attachments/assets/fdb4576b-e308-4d77-a82b-237857b53184)
-![image](https://github.com/user-attachments/assets/e86076e9-ed73-49d9-96f0-4ad491f83783)
-![image](https://github.com/user-attachments/assets/cc0f7bb1-fe7f-4457-94ca-1195a3fba255)
+![image](https://github.com/user-attachments/assets/029b71bd-7c87-4573-9eb3-e43fa649504b)
+![image](https://github.com/user-attachments/assets/97d274ca-5318-473b-ad00-d7683e32a0b2)
+<img width="1278" alt="image" src="https://github.com/user-attachments/assets/c788bfd3-2d06-4560-bae0-48ae4873bef1">
+
 
 <br><br><br>
 
