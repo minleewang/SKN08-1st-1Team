@@ -96,7 +96,9 @@
 <table>
   <tr>
     <td>PyCharm</td>
-    <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/pycharm-%23000000?style=flat&logo=pycharm&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></td>
     <td></td>
     <td></td>
   </tr>
@@ -138,7 +140,8 @@
 <br><br><br>
 
 ### ✅ Data Server - MySQL에 차량 데이터 관리
-![image](https://github.com/user-attachments/assets/89ece460-81bd-44cf-bc7d-644487b3b267)
+![image](https://github.com/user-attachments/assets/98fec318-f43d-48a9-bf7d-ca08913fe7b9)
+
 <br><br><br>
 
 
