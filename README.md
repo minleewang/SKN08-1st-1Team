@@ -135,8 +135,8 @@
 
 # 4. 애자일 보드 (WBS + 요구사항 명세서 대응)
 ### ✅ Streamlit UI - Streamlit UI 구성
-![image](https://github.com/user-attachments/assets/b547b885-25f8-413f-ab40-3251e8b77e95)
-![image](https://github.com/user-attachments/assets/b947d9db-b2d1-4494-8842-82285289d6ff)
+![image](https://github.com/user-attachments/assets/eab8d436-68e7-47e1-a1af-51734e88d5fa)
+
 <br><br><br>
 
 ### ✅ Data Server - MySQL에 차량 데이터 관리
