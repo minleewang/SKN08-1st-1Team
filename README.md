@@ -154,9 +154,6 @@
 # 7. 주요 프로시저
 
 # 8. Result (수행 결과)
-### ✅ Frontend / Backend / FastAPI / DLLS 구성에서 모든 동작이 안정적으로 잘 실행되는지 확인
-### ✅ FastAPI - DLLS 구성에서 사용자 요청에 따른 LLM 동작이 잘 동작하는지 확인
-### ✅ 구성한 사용자 정의형 프로토콜이 잘 동작하는지 확인
 ### ✅ 시연 결과 모습
 
 ![image](https://github.com/user-attachments/assets/029b71bd-7c87-4573-9eb3-e43fa649504b)
