@@ -25,7 +25,7 @@ class CrawlRepositoryImpl(CrawlRepository):
 
     def __init__(self):
         # 크롤링을 위한 Chrome 드라이버 구성 
-        # self.driver = webdriver.Chrome()
+        self.driver = webdriver.Chrome()
         self.base_url = "https://tago.kr/model/index.htm"
 
     def crawl(self):
